@@ -1,4 +1,4 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miliinwine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
